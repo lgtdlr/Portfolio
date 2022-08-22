@@ -66,7 +66,7 @@ const projects = [
     livePreview: 'https://github.com/lgtdlr/Codfish',
   },
   {
-    name: 'Staem (in-progress)',
+    name: 'Game Catalog (in-progress)',
     description:
       'Full-stack project of a Steam mock for practicing new tech stack.',
     stack: ['Tailwind CSS', 'TypeScript', 'Angular', 'Spring Boot', 'Elasticsearch'],
