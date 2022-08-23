@@ -38,7 +38,7 @@ const experiences = [
     name: 'Verizon',
     description:
       'Built a COVID purpose Android app that implemented various facial analytical features such as sentiment analysis, object detection, and temperature measurement.',
-      subdescription: ['Technology Intern', 'June 2020 - May 2020'],
+      subdescription: ['Technology Intern', 'June 2020 - August 2020'],
   },
   {
     name: 'Department of Defense',
