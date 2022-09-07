@@ -7,7 +7,7 @@ const about = {
   name: 'Leonardo Torres',
   role: 'Computer Engineer Undergraduate Student',
   description:
-    'With a passion for learning, designing, and developing, I thrive to build the skill sets and the professional background necessary to dive deep into the engineering world. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ On the software side, I am confident problem-solving, transitioning between different programming languages, and learning and using new technologies. I have strong troubleshooting and debugging skills, and I am drawn to the areas of Software Engineering, Full-stack Engineering, DevOps Engineering, Cybersecurity, and Networking. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ In the hardware area, I have built an understanding of circuit design and analysis, electronics, programming microcontrollers, and synthesizing FPGAs.',
+    'With a passion for learning, designing, and developing, I thrive to build the skill sets and the professional background necessary to dive deep iyarn dnto the engineering world. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ On the software side, I am confident problem-solving, transitioning between different programming languages, and learning and using new technologies. I have strong troubleshooting and debugging skills, and I am drawn to the areas of Software Engineering, Full-stack Engineering, DevOps Engineering, Cybersecurity, and Networking. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ In the hardware area, I have built an understanding of circuit design and analysis, electronics, programming microcontrollers, and synthesizing FPGAs.',
   resume: 'https://9f7245c2-4419-47d7-9dae-644554fc5839.filesusr.com/ugd/b3f117_195108486b6640a899d2c03a24a98367.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/leonardo-torres-de-la-rosa/',
@@ -85,7 +85,7 @@ const projects = [
     name: 'Java Snake',
     description:
       'Snake Java game project for Advanced Programming Course.',
-    stack: ['Tailwind CSS', 'TypeScript', 'Angular', 'Spring Boot', 'Elasticsearch'],
+    stack: ['Java'],
     sourceCode: 'https://github.com/lgtdlr/Snake',
     livePreview: 'https://github.com/lgtdlr/Snake',
   },
